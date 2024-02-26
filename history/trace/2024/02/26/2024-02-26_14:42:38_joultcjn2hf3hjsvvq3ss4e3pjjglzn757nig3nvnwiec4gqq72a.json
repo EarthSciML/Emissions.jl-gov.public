@@ -1,0 +1,1 @@
+{"id":"joultcjn2hf3hjsvvq3ss4e3pjjglzn757nig3nvnwiec4gqq72a","stamp":"2024-02-26T14:42:38.458626724Z","payload":{"op":"account_issue","note":"directive from GitHub issue #10","args":{"amount":{"asset":"plural","quantity":10000},"from":"treasury+issue","to":"user:ctessum"}}}
